@@ -4,9 +4,9 @@ import web from "./programming.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import upwork from "./upwork-icon2.png"
-import project1 from "./project1.png"
-import project2 from "./project2.png"
-import project3 from "./project3.png"
+import project1 from "./project1.PNG"
+import project2 from "./project2.PNG"
+import project3 from "./project3.PNG"
 import code from "./code-black.png"
 import design from "./webdesign.png"
 import close from "./close.svg";
