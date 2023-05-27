@@ -1,5 +1,4 @@
 import {
-    mobile,
     code,
     creator,
     web,
@@ -11,14 +10,8 @@ import {
     reactjs,
     tailwind,
     nodejs,
-    mongodb,
     git,
     figma,
-    starbucks,
-    tesla,
-    carrent,
-    jobit,
-    tripguide,
     project1,
     project2,
     project3
@@ -104,7 +97,7 @@ import {
       title: "Code Academy full-stack",
       icon: code,
       points: [
-        "In the Full-Stack course, I eagerly delve into the world of web development.I refined my skills in both front-end and back-end development,as well as in web design.In the course we learnt about using python, Javascript, Adobe XD to make visually stunning websites ",
+        "In the Full-Stack course, I eagerly delved into the world of web development.I refined my skills in both front-end and back-end development,as well as in web design.In the course we learnt about using python, Javascript, Adobe XD to make visually stunning websites ",
       ],
     },
     {
