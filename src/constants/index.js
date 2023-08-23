@@ -18,6 +18,10 @@ import {
   gipherson5,
   gipherson6,
   gipherson7,
+  typescript,
+  aws,
+  mongodb,
+  redux,
 } from '../assets'
 
 export const navLinks = [
@@ -92,6 +96,26 @@ const technologies = [
     icon: figma,
     index: 8,
   },
+  {
+    name: 'Typescript',
+    icon: typescript,
+    index: 9,
+  },
+  {
+    name: 'aws',
+    icon: aws,
+    index: 10,
+  },
+  {
+    name: 'mongodb',
+    icon: mongodb,
+    index: 11,
+  },
+  {
+    name: 'redux',
+    icon: redux,
+    index: 12,
+  },
 ]
 
 const experiences = [
@@ -134,7 +158,7 @@ const projects = [
   {
     name: 'E-shop',
     description:
-      'Fully functional MERN(MongoDB,express,react,node) app with payment, the design should be tweaked a bit ',
+      'Fully functional MERN(MongoDB,express,react,node,TS) app with payment, it is built for functionality ',
     image: project2,
     source_code_link: 'https://github.com/',
     gifImage: gipherson5,

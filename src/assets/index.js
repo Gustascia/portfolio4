@@ -24,6 +24,10 @@ import illustration2 from './illustration2.svg'
 import gipherson5 from './gipherson5.gif'
 import gipherson6 from './gipherson6.gif'
 import gipherson7 from './gipherson7.gif'
+import typescript from './tech/typescript.png'
+import aws from './tech/AWSS.png'
+import mongodb from './tech/mongodb.png'
+import redux from './tech/redux.png'
 
 export {
   logo,
@@ -52,4 +56,8 @@ export {
   gipherson5,
   gipherson6,
   gipherson7,
+  typescript,
+  aws,
+  mongodb,
+  redux,
 }
